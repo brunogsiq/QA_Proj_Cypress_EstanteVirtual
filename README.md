@@ -1,1 +1,1 @@
-# QA_Proj_Cypress_EstanteVirtual
+# QA_Proj_Cypress_Estante_Virtual.
